@@ -1,1 +1,4 @@
 Esse é o arquivo 01 - alterado no passado
+Esse é o arquivo 01
+
+linha pra conflita o rebase
