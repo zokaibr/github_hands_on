@@ -1,3 +1,5 @@
-conteúdo do arquivo com conflito
+Novo conteúdo do arquivo 2
 
-alteração nova
+outra linha
+
+mais uma linha
