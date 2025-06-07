@@ -1,1 +1,1 @@
-conteúdo do arquivo 2
+conteúdo do arquivo com conflito
