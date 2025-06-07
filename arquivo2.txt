@@ -1,1 +1,3 @@
 conteúdo do arquivo com conflito
+
+alteração nova
