@@ -1,1 +1,5 @@
-conteúdo do arquivo 2
+Novo conteúdo do arquivo 2
+
+outra linha
+
+mais uma linha
